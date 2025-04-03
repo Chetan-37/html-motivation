@@ -1,0 +1,46 @@
+body{
+    background-color: #222831;
+}
+
+#top{
+    margin: 10% 25%;
+}
+
+h1{
+    text-align:center;
+    color:#EEEEEE;
+    background-color: #00ADB5;  
+}
+
+footer{
+    background-color: #393E46;
+    color:#EEEEEE
+}
+
+a{
+    color:#EEEEEE;
+}
+
+div{
+    margin-right:200px;
+    margin-left:200px;
+}
+
+img{
+    width:50%;
+    height:50%;
+    margin:0 25%;
+    border:#EEEEEE solid;
+}
+
+h5{
+    font-size:1.5rem;
+    text-align:center;
+    border: #00ADB5 solid 2px;
+    padding:5%;
+    margin: 2% 20%
+}
+#desp{
+    text-align:center;
+    margin:0;
+}
